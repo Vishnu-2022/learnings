@@ -40,6 +40,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("Kanini Data Added");
             l.Add("Kanini second Data Added");
             l.Add("Docker Image Added");
+            l.Add("test vishnu");
             return l;
         }
     }
